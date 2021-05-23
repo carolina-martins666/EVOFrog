@@ -12,6 +12,8 @@ https://user-images.githubusercontent.com/65877176/119279098-d6d0e100-bbff-11eb-
   Desenvolvemos o projeto durante um Game Jam realizado pela FMU, onde tivemos dois dias para entregar um jogo com o tema formas de se viver. Apesar de já estarmos acostumados com a programação, foi o primeiro jogo de alguns e ainda o primeiro contato com a plataforma Unity. Tivemos que além de desenvolvê-lo, aprender a utilizar a plataforma. 
 O jogo é simples e possui algumas pequenas falhas. Pretendemos até melhorar umas mecânicas, mas com o tempo que tínhamos para a realização do projeto até que se tornou um jogo divertido e engraçado, ficando em 7º lugar no Game Jam da FMU 2021. 
 
+Você pode BAIXAR o jogo no link: https://carolina-martins.itch.io/evofrog
+
 MENU:
 
 ![image](https://user-images.githubusercontent.com/65877176/119278669-134f0d80-bbfd-11eb-99c8-5c628f72e4c1.png)
@@ -31,5 +33,3 @@ Fase 3:
 Fase 4:
 
 ![image](https://user-images.githubusercontent.com/65877176/119278988-41355180-bbff-11eb-99d2-dc9525a61902.png)
-
-Você pode baixar o jogo no link: https://carolina-martins.itch.io/evofrog
